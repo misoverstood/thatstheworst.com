@@ -10,7 +10,7 @@ keywords: "markdown, typography components, dummy content"
 <http://memory.loc.gov/ammem/collections/911_archive/>
 
 budweiser's wardrobe malfunction ad (that will not be played during superbowl)
-http://boss.streamos.com/wmedia/budweiser/budlight/superbowl2005/wardrobe_malfunction_600k.wvx
+<http://boss.streamos.com/wmedia/budweiser/budlight/superbowl2005/wardrobe_malfunction_600k.wvx>
 <http://boss.streamos.com/real/budweiser/budlight/superbowl2005/wardrobe_malfunction_600k.smi>
 <http://boss.streamos.com/qtime/budweiser/budlight/superbowl2005/wardrobe_malfunction_600k.mov>
 
