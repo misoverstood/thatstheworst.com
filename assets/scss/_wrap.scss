@@ -1,3 +1,11 @@
-div {
-    word-wrap: break-word;
+.overflow-wrap {
+  overflow-wrap: break-word;
+}
+
+.word-break {
+  word-break: break-all;
+}
+
+.hyphens {
+  hyphens: auto;
 }
