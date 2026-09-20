@@ -12,8 +12,6 @@ content:
     type: collection
     path: src/content/posts
     subfolders: false
-    exclude:
-      - 2026-09-20-zz-test-delete-me.md
     filename:
       template: "{year}-{month}-{day}-{primary}.md"
       field: create
@@ -61,22 +59,6 @@ content:
         type: string
         default: America/Toronto
         hidden: true
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: about
-    label: About page
-    type: file
-    path: src/content/pages/about.md
-    fields:
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: description
-        label: Description
-        type: string
       - name: body
         label: Body
         type: rich-text
