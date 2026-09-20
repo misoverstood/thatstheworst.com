@@ -1,37 +1,16 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "What this site is."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+This is an archive of a Tumblr blog that ran, on and off, from 2004 to 2014.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+It was mostly link dumps: things worth clicking, videos worth watching, and a fair amount of nonsense. Titles in the early years were usually whatever lyric was stuck in my head at the time.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Almost every link here is dead now. Hosts shut down, domains lapsed, Flash died. I've left them as they were rather than pruning or updating anything, because a link blog with the links removed isn't much of an archive.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Posts are unedited apart from a handful of titles where the language needed masking.
 
-## Features
+## Colophon
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Built with [Astro](https://astro.build/) using the [AstroPaper](https://github.com/satnaing/astro-paper) theme, hosted on Cloudflare Workers. Source is on [GitHub](https://github.com/misoverstood/thatstheworst.com).
