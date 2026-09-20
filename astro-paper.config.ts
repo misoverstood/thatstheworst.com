@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://thatstheworst.com/",
     title: "thatstheworst.com",
     description: "Links, videos and assorted nonsense. Archived from Tumblr, 2004 onward.",
-    author: "misoverstood",
+    author: "Seth Mason",
     profile: "https://thatstheworst.com/",
     ogImage: "default-og.jpg",
     lang: "en",
@@ -28,8 +28,5 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [],
-  shareLinks: [
-    { name: "x", url: "https://x.com/intent/post?url=" },
-    { name: "mail", url: "mailto:?subject=See%20this%20post&body=" },
-  ],
+  shareLinks: [],
 });
