@@ -1,7 +1,7 @@
 ---
 title: "thats why they call me Super Bachan"
 author: "Seth Mason"
-pubDatetime: 2004-11-20T01:08:00-0500
+pubDatetime: 2004-11-20T01:08:00-05:00
 description: "could be the next in IM and p2p http://grouper.com/ ernesto shaw = dj clue (hahaha) kejuan muchita = havoc lame ass rappers…"
 timezone: "America/Toronto"
 tags:

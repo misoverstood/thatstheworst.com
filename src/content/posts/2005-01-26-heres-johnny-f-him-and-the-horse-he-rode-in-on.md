@@ -1,7 +1,7 @@
 ---
 title: "heres johnny! f--- him and the horse he rode in on"
 author: "Seth Mason"
-pubDatetime: 2005-01-26T00:00:00-0500
+pubDatetime: 2005-01-26T00:00:00-05:00
 description: "911 archive from the library of congress http://memory.loc.gov/ammem/collections/911_archive/ Budweiser’s wardrobe malfunction ad (that will not be…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "salty expired recalled cookies"
 author: "Seth Mason"
-pubDatetime: 2010-08-18T13:44:00-0400
+pubDatetime: 2010-08-18T13:44:00-04:00
 description: "browse your iphone/ipod/ipad for files & folders http://www.macroplant.com/iphoneexplorer/ create works of art right from you web browser (works on you…"
 timezone: "America/Toronto"
 tags:

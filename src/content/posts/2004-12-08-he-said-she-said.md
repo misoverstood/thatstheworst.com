@@ -1,7 +1,7 @@
 ---
 title: "he said she said"
 author: "Seth Mason"
-pubDatetime: 2004-12-08T20:17:00-0500
+pubDatetime: 2004-12-08T20:17:00-05:00
 description: "time waster game http://oos.moxiecode.com/examples/reflex/ girl fight http://media.skoopy.com/vids/vid_00353.wmv boop boop there u go…"
 timezone: "America/Toronto"
 tags:

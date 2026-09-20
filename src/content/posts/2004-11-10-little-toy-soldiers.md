@@ -1,7 +1,7 @@
 ---
 title: "little toy soldiers"
 author: "Seth Mason"
-pubDatetime: 2004-11-10T12:16:00-0500
+pubDatetime: 2004-11-10T12:16:00-05:00
 description: "things aren’t always as they appear http://www.grand-illusions.com/videos/dragon%20illusion.wmv http://www.santoalt.com/face_optical_illusion.php…"
 timezone: "America/Toronto"
 tags:

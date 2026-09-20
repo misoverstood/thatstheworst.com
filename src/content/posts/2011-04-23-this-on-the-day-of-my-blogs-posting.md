@@ -1,7 +1,7 @@
 ---
 title: "this on the day of my blog's posting"
 author: "Seth Mason"
-pubDatetime: 2011-04-23T11:09:00-0400
+pubDatetime: 2011-04-23T11:09:00-04:00
 description: "create your own free timeline http://dipity.com/ twitter hashtag definitions http://tagdef.com http://wthashtag.com/ find out what a hashtag is trending…"
 timezone: "America/Toronto"
 tags:

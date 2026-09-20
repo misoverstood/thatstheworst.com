@@ -1,7 +1,7 @@
 ---
 title: "some I------ ting a gwon @ the skydome Dec 24-25-26. C U there ;)"
 author: "Seth Mason"
-pubDatetime: 2004-12-19T23:24:00-0500
+pubDatetime: 2004-12-19T23:24:00-05:00
 description: "note to self: make sure the door is locked when jerkin to some gay japanese animal midget p0rn http://www.distortednetworks.com.nyud.net:8090/hah.avi…"
 timezone: "America/Toronto"
 tags:

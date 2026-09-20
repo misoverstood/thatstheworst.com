@@ -1,7 +1,7 @@
 ---
 title: "pres-tee-gee-ous"
 author: "Seth Mason"
-pubDatetime: 2011-01-02T19:39:00-0500
+pubDatetime: 2011-01-02T19:39:00-05:00
 description: "free fonts http://fontfabric.com/category/free/ deploy and host your own google apps applications https://code.google.com/p/appscale/ I know where you…"
 timezone: "America/Toronto"
 tags:

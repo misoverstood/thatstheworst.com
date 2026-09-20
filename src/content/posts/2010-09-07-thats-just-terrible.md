@@ -1,7 +1,7 @@
 ---
 title: "that's just terrible"
 author: "Seth Mason"
-pubDatetime: 2010-09-07T14:05:00-0400
+pubDatetime: 2010-09-07T14:05:00-04:00
 description: "pictures of animals http://animalphotos.info/ do you know your net lingo? then RTFM http://www.netlingo.com/ jailbreak your iphone or itouch device…"
 timezone: "America/Toronto"
 tags:

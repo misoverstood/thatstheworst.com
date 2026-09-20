@@ -1,7 +1,7 @@
 ---
 title: "I will cover his ass like moss on a Mississippi tree stump"
 author: "Seth Mason"
-pubDatetime: 2010-09-27T21:25:00-0400
+pubDatetime: 2010-09-27T21:25:00-04:00
 description: "music is sampled and called a remix http://www.everythingisaremix.info/ search yahoo + bing + google all at once http://yabigo.com/ popular videos from a…"
 timezone: "America/Toronto"
 tags:

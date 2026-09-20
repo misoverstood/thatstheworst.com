@@ -1,7 +1,7 @@
 ---
 title: "a festivus for the rest of us"
 author: "Seth Mason"
-pubDatetime: 2004-12-26T14:22:00-0500
+pubDatetime: 2004-12-26T14:22:00-05:00
 description: "criminal minds and methods. learn a lil sumthin about us http://www.crimelibrary.com/ the big boy forums http://rankings.big-boards.com/?p=all michael…"
 timezone: "America/Toronto"
 tags:

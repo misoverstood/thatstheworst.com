@@ -1,7 +1,7 @@
 ---
 title: "sugar pie honey bunch"
 author: "Seth Mason"
-pubDatetime: 2005-02-11T00:00:00-0500
+pubDatetime: 2005-02-11T00:00:00-05:00
 description: "don’t be dancing in a dorm room. white boy got moves http://www.ejbdotcom.net/index.php?do=thevideos&video=everybodydance.wmv whoa. google maps…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "how to download youtube media from terminal"
 author: "Seth Mason"
-pubDatetime: 2012-05-03T11:00:00-0400
+pubDatetime: 2012-05-03T11:00:00-04:00
 description: "download youtube media (+ others) from terminal. a configuration guide for mac osx 10.7 (lion) download and install Python http://python.org/download/…"
 timezone: "America/Toronto"
 tags:

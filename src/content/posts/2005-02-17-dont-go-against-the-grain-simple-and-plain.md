@@ -1,7 +1,7 @@
 ---
 title: "dont go against the grain simple and plain"
 author: "Seth Mason"
-pubDatetime: 2005-02-17T00:00:00-0500
+pubDatetime: 2005-02-17T00:00:00-05:00
 description: "how to configure windows firewall on a single pc http://www.microsoft.com/technet/security/smallbusiness/prodtech/windowsxp/cfgfwall.mspx send any mp3 to…"
 timezone: "America/Toronto"
 tags:

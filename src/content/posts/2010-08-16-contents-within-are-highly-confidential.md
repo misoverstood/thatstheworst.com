@@ -1,7 +1,7 @@
 ---
 title: "contents within are highly confidential"
 author: "Seth Mason"
-pubDatetime: 2010-08-16T10:17:00-0400
+pubDatetime: 2010-08-16T10:17:00-04:00
 description: "firefox plugin that alerts you when your computer is sending data/info to google http://jamiedubs.com/googlealarm/ realistic projection on a building…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "oooh! they got the internet on computers now"
 author: "Seth Mason"
-pubDatetime: 2005-08-21T00:00:00-0400
+pubDatetime: 2005-08-21T00:00:00-04:00
 description: "where the cheap gas is http://gasbuddy.com/gb_region.asp?region=ON if ur bored http://www.guesswhichmovie.com/ if you hate that holla back track…"
 timezone: "America/Toronto"
 tags:

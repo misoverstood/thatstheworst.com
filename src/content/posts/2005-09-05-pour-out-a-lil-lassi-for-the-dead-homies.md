@@ -1,7 +1,7 @@
 ---
 title: "pour out a lil lassi for the dead homies"
 author: "Seth Mason"
-pubDatetime: 2005-09-05T00:00:00-0400
+pubDatetime: 2005-09-05T00:00:00-04:00
 description: "rap sheets of NY’s most famous rappers http://www.thesmokinggun.com/archive/0829052hiphop1.html if u still use IE u reek and should be using firefox.…"
 timezone: "America/Toronto"
 tags:

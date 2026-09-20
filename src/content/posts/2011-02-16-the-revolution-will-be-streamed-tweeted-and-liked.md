@@ -1,7 +1,7 @@
 ---
 title: "the revolution will be streamed, tweeted and liked"
 author: "Seth Mason"
-pubDatetime: 2011-02-16T23:57:00-0500
+pubDatetime: 2011-02-16T23:57:00-05:00
 description: "Terence McKenna of CBC’s The National breaks down the happenings in Egypt in this mini documentary: Anatomy of a Revolution (Part 1)…"
 timezone: "America/Toronto"
 tags:

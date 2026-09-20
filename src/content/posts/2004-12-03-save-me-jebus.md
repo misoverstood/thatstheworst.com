@@ -1,7 +1,7 @@
 ---
 title: "save me jebus"
 author: "Seth Mason"
-pubDatetime: 2004-12-03T22:41:00-0500
+pubDatetime: 2004-12-03T22:41:00-05:00
 description: "for the s*** talkers http://www.wired.com/news/medtech/0,1286,65871,00.html?tw=wn_tophead_2 I would like a few of these http://www.roadragecards.com/ one…"
 timezone: "America/Toronto"
 tags:

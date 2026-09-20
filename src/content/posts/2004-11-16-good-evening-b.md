@@ -1,7 +1,7 @@
 ---
 title: "good evening b*****"
 author: "Seth Mason"
-pubDatetime: 2004-11-16T22:05:00-0500
+pubDatetime: 2004-11-16T22:05:00-05:00
 description: "u remember dj danger mouse who remixed jay-z’s black album and the beatles’ white album? this is the video. not bad at all http://www.greyvideo.com/ for…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "I'm a decent baiter"
 author: "Seth Mason"
-pubDatetime: 2012-03-02T11:53:00-0500
+pubDatetime: 2012-03-02T11:53:00-05:00
 description: "make all your cloud apps work as one http://hojoki.com/ share files from your mac task bar http://getcloudapp.com/ minimalist email client for mac osx…"
 timezone: "America/Toronto"
 tags:

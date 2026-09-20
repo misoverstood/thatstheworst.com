@@ -1,7 +1,7 @@
 ---
 title: "derp derp derp"
 author: "Seth Mason"
-pubDatetime: 2010-09-09T21:09:00-0400
+pubDatetime: 2010-09-09T21:09:00-04:00
 description: "send and reply to a group via txt/sms (currently US only) http://groupme.com/ math, science and tech resources for girls in middle school…"
 timezone: "America/Toronto"
 tags:

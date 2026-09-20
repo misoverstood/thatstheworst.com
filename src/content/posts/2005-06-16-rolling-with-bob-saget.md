@@ -1,7 +1,7 @@
 ---
 title: "rolling with bob saget"
 author: "Seth Mason"
-pubDatetime: 2005-06-16T00:00:00-0400
+pubDatetime: 2005-06-16T00:00:00-04:00
 description: "here’s some s*** to roll with this summer http://www.myspace.com/thestonemovement play the rollin with bob saget clip its a track done by jamie kennedy,…"
 timezone: "America/Toronto"
 tags:

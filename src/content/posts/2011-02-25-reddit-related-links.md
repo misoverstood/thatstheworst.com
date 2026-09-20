@@ -1,7 +1,7 @@
 ---
 title: "reddit related links"
 author: "Seth Mason"
-pubDatetime: 2011-02-25T19:59:00-0500
+pubDatetime: 2011-02-25T19:59:00-05:00
 description: "sub-reddits: http://subreddits.org/ http://aggreddit.com/ http://erqqvg.com/ http://subredditfinder.com/ http://redditlist.com/ http://metareddit.com/…"
 timezone: "America/Toronto"
 tags:

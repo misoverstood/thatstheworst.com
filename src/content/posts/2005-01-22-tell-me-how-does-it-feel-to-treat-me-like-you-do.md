@@ -1,7 +1,7 @@
 ---
 title: "tell me how does it feel to treat me like you do?"
 author: "Seth Mason"
-pubDatetime: 2005-01-22T14:33:00-0500
+pubDatetime: 2005-01-22T14:33:00-05:00
 description: "exeem has gone public beta exeem is gonna be the new kazaa/morpheus/napster etc etc from the makers of suprnova.org http://www.exeem.com/ or exeem lite…"
 timezone: "America/Toronto"
 tags:

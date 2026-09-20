@@ -1,7 +1,7 @@
 ---
 title: "you guys are the suck"
 author: "Seth Mason"
-pubDatetime: 2004-10-22T08:17:00-0400
+pubDatetime: 2004-10-22T08:17:00-04:00
 description: "diss da claimer: some links may not be safe for ramadhan [NSFR] or safe at all for ur senses. why u ask? cause I is a very disturbed individual.…"
 timezone: "America/Toronto"
 tags:

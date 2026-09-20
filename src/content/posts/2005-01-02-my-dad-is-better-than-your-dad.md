@@ -1,7 +1,7 @@
 ---
 title: "my dad is better than your dad"
 author: "Seth Mason"
-pubDatetime: 2005-01-02T12:28:00-0500
+pubDatetime: 2005-01-02T12:28:00-05:00
 description: "what have u done with your free time lately? http://www.cardstacker.com/gallery.html this is johnny crack biaaatch holdin it down for L-side homie dont…"
 timezone: "America/Toronto"
 tags:

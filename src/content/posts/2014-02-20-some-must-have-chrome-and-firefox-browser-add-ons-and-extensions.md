@@ -1,7 +1,7 @@
 ---
 title: "some must have chrome and firefox browser add-ons and extensions"
 author: "Seth Mason"
-pubDatetime: 2014-02-20T09:14:00-0500
+pubDatetime: 2014-02-20T09:14:00-05:00
 description: "AdBlock Plus https://adblockplus.org/ * disable the ‘allow some non-intrusive advertising’ option * grab your subscriptions here…"
 timezone: "America/Toronto"
 tags:

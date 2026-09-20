@@ -1,7 +1,7 @@
 ---
 title: "that's gold"
 author: "Seth Mason"
-pubDatetime: 2011-02-08T20:28:00-0500
+pubDatetime: 2011-02-08T20:28:00-05:00
 description: "calming album #music http://zoeblade.bandcamp.com/album/hello-calm better lighting for your computer #mac #osx http://stereopsis.com/flux/ an extra layer…"
 timezone: "America/Toronto"
 tags:

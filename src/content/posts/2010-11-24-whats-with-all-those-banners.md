@@ -1,7 +1,7 @@
 ---
 title: "what’s with all those banners?"
 author: "Seth Mason"
-pubDatetime: 2010-11-24T22:26:00-0500
+pubDatetime: 2010-11-24T22:26:00-05:00
 description: "internet randomness http://internet-randomness.posterous.com/ open source production quality 3D modeling and rendering software http://blender.org/ 2…"
 timezone: "America/Toronto"
 tags:

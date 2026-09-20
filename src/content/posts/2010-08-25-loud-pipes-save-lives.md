@@ -1,7 +1,7 @@
 ---
 title: "loud pipes save lives"
 author: "Seth Mason"
-pubDatetime: 2010-08-25T12:47:00-0400
+pubDatetime: 2010-08-25T12:47:00-04:00
 description: "this dude draws art on etch-a-sketch’s http://bryanetch.blogspot.com/ view, upload, transcribe & translate any video into & from any language…"
 timezone: "America/Toronto"
 tags:

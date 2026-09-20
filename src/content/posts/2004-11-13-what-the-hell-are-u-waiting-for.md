@@ -1,7 +1,7 @@
 ---
 title: "what the hell are u waiting for?"
 author: "Seth Mason"
-pubDatetime: 2004-11-13T04:39:00-0500
+pubDatetime: 2004-11-13T04:39:00-05:00
 description: "misuse of chinese characters in western culture http://www.hanzismatter.com/ I don’t know what the f— is going on here…"
 timezone: "America/Toronto"
 tags:

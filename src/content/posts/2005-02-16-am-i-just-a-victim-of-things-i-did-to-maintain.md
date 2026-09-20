@@ -1,7 +1,7 @@
 ---
 title: "am I just a victim of things I did to maintain?"
 author: "Seth Mason"
-pubDatetime: 2005-02-16T00:00:00-0500
+pubDatetime: 2005-02-16T00:00:00-05:00
 description: "gotto get that paper. world paper currency image gallery http://www.kcshop.com/imagegallery/ another cool google search http://print.google.com/ get…"
 timezone: "America/Toronto"
 tags:

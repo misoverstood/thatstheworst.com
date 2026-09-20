@@ -1,7 +1,7 @@
 ---
 title: "holy bazinga batman, that's a crap load of links!"
 author: "Seth Mason"
-pubDatetime: 2010-11-20T16:13:00-0500
+pubDatetime: 2010-11-20T16:13:00-05:00
 description: "random insults http://randomlyinsult.me/ a blog of awesome stuff http://theawesomer.com/ turn your iphone into a USB-like flash drive…"
 timezone: "America/Toronto"
 tags:

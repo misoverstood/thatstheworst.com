@@ -1,7 +1,7 @@
 ---
 title: "f----- chuck norris"
 author: "Seth Mason"
-pubDatetime: 2004-11-29T23:17:00-0500
+pubDatetime: 2004-11-29T23:17:00-05:00
 description: "to kill a mocking bird book report done in flash http://www.stanford.edu/~scodary/tkam.htm are u dumb? http://www.asiantown.net/blog/fla/are_you_dumb.swf…"
 timezone: "America/Toronto"
 tags:

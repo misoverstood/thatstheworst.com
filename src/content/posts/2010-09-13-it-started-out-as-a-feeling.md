@@ -1,7 +1,7 @@
 ---
 title: "it started out as a feeling"
 author: "Seth Mason"
-pubDatetime: 2010-09-13T12:57:00-0400
+pubDatetime: 2010-09-13T12:57:00-04:00
 description: "if you ever wanted to purchase goods that will only ship to USA http://www.bundlebox.com/ a blog about logos http://www.logoblog.org/ cool movie…"
 timezone: "America/Toronto"
 tags:

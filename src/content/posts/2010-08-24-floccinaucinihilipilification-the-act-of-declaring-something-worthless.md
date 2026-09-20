@@ -1,7 +1,7 @@
 ---
 title: "floccinaucinihilipilification (the act of declaring something worthless)"
 author: "Seth Mason"
-pubDatetime: 2010-08-24T12:02:00-0400
+pubDatetime: 2010-08-24T12:02:00-04:00
 description: "watch the best videos on youtube http://devour.com/ loads of free ebooks http://manybooks.net/categories/ mapping the gansta terrain of the planet…"
 timezone: "America/Toronto"
 tags:

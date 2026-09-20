@@ -1,7 +1,7 @@
 ---
 title: "I almost slapped someone in finance"
 author: "Seth Mason"
-pubDatetime: 2011-03-30T10:58:00-0400
+pubDatetime: 2011-03-30T10:58:00-04:00
 description: "dead simple video converter for mac #software http://media-converter.sourceforge.net/ dropbox powered social network http://frenzyapp.com/ create…"
 timezone: "America/Toronto"
 tags:

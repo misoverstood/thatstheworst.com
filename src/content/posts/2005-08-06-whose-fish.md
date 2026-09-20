@@ -1,7 +1,7 @@
 ---
 title: "Whose Fish?"
 author: "Seth Mason"
-pubDatetime: 2005-08-06T00:00:00-0400
+pubDatetime: 2005-08-06T00:00:00-04:00
 description: "This brainteaser, reportedly written by Einstein is difficult and Einstein said that 98% of the people in the world could not figure it out. Which…"
 timezone: "America/Toronto"
 tags:

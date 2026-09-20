@@ -1,7 +1,7 @@
 ---
 title: "what say you get some links"
 author: "Seth Mason"
-pubDatetime: 2011-02-26T10:50:00-0500
+pubDatetime: 2011-02-26T10:50:00-05:00
 description: "inspiring images and videos http://weheartit.com/ your main text file on the web http://mytextfile.com/ simple and ready to use single file executable…"
 timezone: "America/Toronto"
 tags:

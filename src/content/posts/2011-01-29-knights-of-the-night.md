@@ -1,7 +1,7 @@
 ---
 title: "knights of the night"
 author: "Seth Mason"
-pubDatetime: 2011-01-29T11:46:00-0500
+pubDatetime: 2011-01-29T11:46:00-05:00
 description: "the free repair manual that you can edit http://ifixit.com/ top twitter user rankings and stats http://twitaholic.com/ brain storming and mind mapping…"
 timezone: "America/Toronto"
 tags:

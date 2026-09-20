@@ -1,7 +1,7 @@
 ---
 title: "boredom strikes"
 author: "Seth Mason"
-pubDatetime: 2011-09-09T11:32:00-0400
+pubDatetime: 2011-09-09T11:32:00-04:00
 description: "http://www.letmewatchthis.ch http://www.solarmovie.eu/ http://www.icefilms.info/ http://www.mobilevids.org/…"
 timezone: "America/Toronto"
 tags:

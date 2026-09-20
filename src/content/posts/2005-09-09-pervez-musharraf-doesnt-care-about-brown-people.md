@@ -1,7 +1,7 @@
 ---
 title: "pervez musharraf doesnt care about brown people"
 author: "Seth Mason"
-pubDatetime: 2005-09-09T00:00:00-0400
+pubDatetime: 2005-09-09T00:00:00-04:00
 description: "I cant believe this mofo is running s*** http://www.filecabi.net/host/file/genius/wmv millions of games. more like hundreds but you get the point…"
 timezone: "America/Toronto"
 tags:

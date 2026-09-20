@@ -1,7 +1,7 @@
 ---
 title: "Im hotter than a n---- thats wearin 4 sweaters"
 author: "Seth Mason"
-pubDatetime: 2005-01-10T21:15:00-0500
+pubDatetime: 2005-01-10T21:15:00-05:00
 description: "whatup wiggaz http://wgz.8k.com/ become a news or radio broadcaster from your pc http://www.peercast.org/ mtv real world houses over the years…"
 timezone: "America/Toronto"
 tags:

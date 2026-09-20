@@ -1,7 +1,7 @@
 ---
 title: "STFU Donny"
 author: "Seth Mason"
-pubDatetime: 2010-08-29T12:34:00-0400
+pubDatetime: 2010-08-29T12:34:00-04:00
 description: "low clearing bridge + truck = obvious http://11foot8.com/ have an idea or vision that lacks funding? (or assist others with their dreams)…"
 timezone: "America/Toronto"
 tags:

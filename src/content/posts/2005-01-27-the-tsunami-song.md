@@ -1,7 +1,7 @@
 ---
 title: "the tsunami song"
 author: "Seth Mason"
-pubDatetime: 2005-01-27T00:00:00-0500
+pubDatetime: 2005-01-27T00:00:00-05:00
 description: "so there’s this big controversy about the tsunami song (posted a few emails back) hear the track here http://www.thesilent1.com/USA_For_Indonesia.mp3…"
 timezone: "America/Toronto"
 tags:

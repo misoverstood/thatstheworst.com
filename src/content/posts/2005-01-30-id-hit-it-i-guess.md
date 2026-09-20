@@ -1,7 +1,7 @@
 ---
 title: "Id hit it, I guess"
 author: "Seth Mason"
-pubDatetime: 2005-01-30T00:00:00-0500
+pubDatetime: 2005-01-30T00:00:00-05:00
 description: "another great time waster website (the usual vids, pics, babes, flash etc etc) http://www.uniquepeek.com/ and another one…"
 timezone: "America/Toronto"
 tags:

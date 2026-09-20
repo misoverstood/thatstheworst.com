@@ -1,7 +1,7 @@
 ---
 title: "I saw a dead bird flyin through a broken sky"
 author: "Seth Mason"
-pubDatetime: 2004-11-25T21:06:00-0500
+pubDatetime: 2004-11-25T21:06:00-05:00
 description: "video clips of tits poppin out http://www.oopsclips.com/ now only if I can find a little 12 year boy oops I mean… http://www.zurichlabs.com/id_sem_wm.htm…"
 timezone: "America/Toronto"
 tags:
