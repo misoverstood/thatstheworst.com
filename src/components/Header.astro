@@ -6,6 +6,7 @@ import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import IconX from "@/assets/icons/IconX.svg";
 import LinkButton from "./LinkButton.astro";
 import { stripBase, stripLocale } from "@/utils/withBase";
@@ -16,6 +17,8 @@ const { site, features } = config;
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+
+const rssHref = `${import.meta.env.BASE_URL.replace(/\/?$/, "/")}rss.xml`;
 
 // Strip the base prefix so isActive comparisons work regardless of deploy subdirectory.
 // e.g. with base "/blog": "/blog/posts/slug" → "/posts/slug"
@@ -122,6 +125,17 @@ const isActive = (path: string) => {
             </li>
           )
         }
+        <li class="col-span-2">
+          <LinkButton
+            href={rssHref}
+            class="focus-outline flex size-full justify-center p-3 sm:relative sm:size-8 sm:p-0"
+            title="RSS Feed"
+            aria-label="RSS Feed"
+          >
+            <IconRss class="hidden sm:absolute sm:top-1/2 sm:left-1/2 sm:block sm:size-6 sm:-translate-x-1/2 sm:-translate-y-1/2" />
+            <span class="sm:sr-only">RSS</span>
+          </LinkButton>
+        </li>
         {
           features.search !== false && (
             <li class="col-span-1 flex items-center justify-center">
