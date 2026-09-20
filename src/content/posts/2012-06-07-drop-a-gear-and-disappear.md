@@ -1,7 +1,7 @@
 ---
 title: "drop a gear and disappear"
 author: "Seth Mason"
-pubDatetime: 2012-06-07T11:32:00
+pubDatetime: 2012-06-07T11:32:00-0400
 description: "build your pc by sourcing out your parts from here http://pcpartpicker.com/ create social stories #twitter http://storify.com/ instantly book activities…"
 timezone: "America/Toronto"
 tags:

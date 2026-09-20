@@ -1,7 +1,7 @@
 ---
 title: "on the corner with the toolie on the waist line"
 author: "Seth Mason"
-pubDatetime: 2004-12-17T23:28:00
+pubDatetime: 2004-12-17T23:28:00-0500
 description: "man this jew gets down. biggup! http://www.jewschool.com/jimmykimmel.mov my eyes. my sweet virgin eyes http://hem.bredband.net/perman/cp/varning.html wtf…"
 timezone: "America/Toronto"
 tags:

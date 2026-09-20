@@ -1,7 +1,7 @@
 ---
 title: "queerly beloved"
 author: "Seth Mason"
-pubDatetime: 2005-02-24T00:00:00
+pubDatetime: 2005-02-24T00:00:00-0500
 description: "another collection of free software http://www.portablefreeware.com/all.php if u into south park http://www.mrtwig.net/ if u into downloading TV shows…"
 timezone: "America/Toronto"
 tags:

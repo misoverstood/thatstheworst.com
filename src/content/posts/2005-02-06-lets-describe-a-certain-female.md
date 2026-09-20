@@ -1,7 +1,7 @@
 ---
 title: "Let's describe a certain female"
 author: "Seth Mason"
-pubDatetime: 2005-02-06T00:00:00
+pubDatetime: 2005-02-06T00:00:00-0500
 description: "Einstein the brainy bird http://media.animal.discovery.com/fansites/petstar/videogallery/season3/ep309_winner.html random live web cams from around the…"
 timezone: "America/Toronto"
 tags:

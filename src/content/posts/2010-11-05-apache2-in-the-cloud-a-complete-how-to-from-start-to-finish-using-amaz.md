@@ -1,7 +1,7 @@
 ---
 title: "apache2 in the cloud: a complete how-to from start to finish using amazon’s ec2"
 author: "Seth Mason"
-pubDatetime: 2010-11-05T10:56:00
+pubDatetime: 2010-11-05T10:56:00-0400
 description: "TASK : setup a linux web server running apache2 using Amazon’s recently released free tier of their popular cloud computing service, ec2 , which resides…"
 timezone: "America/Toronto"
 tags:

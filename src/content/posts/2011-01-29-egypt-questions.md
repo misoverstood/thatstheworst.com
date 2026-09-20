@@ -1,7 +1,7 @@
 ---
 title: "Egypt - questions?"
 author: "Seth Mason"
-pubDatetime: 2011-01-29T09:54:00
+pubDatetime: 2011-01-29T09:54:00-0500
 description: "If you are wondering what in the world is happening in Egypt, The Toronto Star has a primer on the events taking place:…"
 timezone: "America/Toronto"
 tags:

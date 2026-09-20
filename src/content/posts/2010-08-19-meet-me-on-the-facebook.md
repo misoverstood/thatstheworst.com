@@ -1,7 +1,7 @@
 ---
 title: "meet me on the facebook"
 author: "Seth Mason"
-pubDatetime: 2010-08-19T23:15:00
+pubDatetime: 2010-08-19T23:15:00-0400
 description: "see whats trending on facebook right now http://www.booshaka.com/ facebook releases a check-in service so you can give up more of your privacy…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "I will kill n----- dead, cut n----- short give em wheels for legs"
 author: "Seth Mason"
-pubDatetime: 2005-02-03T00:00:00
+pubDatetime: 2005-02-03T00:00:00-0500
 description: "bust-a-move with a twist http://www.zeronews-fr.com/flash/bearandcat.php I wouldn’t be surprised if this shows up during SB XXXIX…"
 timezone: "America/Toronto"
 tags:

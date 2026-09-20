@@ -1,7 +1,7 @@
 ---
 title: "blood fyre!"
 author: "Seth Mason"
-pubDatetime: 2004-10-27T17:32:00
+pubDatetime: 2004-10-27T17:32:00-0400
 description: "funny ads and video clips http://www.strenge.be/cartoons/movies/movies.htm outsource ur medical needs to the motherland…"
 timezone: "America/Toronto"
 tags:

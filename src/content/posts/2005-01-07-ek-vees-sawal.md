@@ -1,7 +1,7 @@
 ---
 title: "ek vees sawal"
 author: "Seth Mason"
-pubDatetime: 2005-01-07T00:16:00
+pubDatetime: 2005-01-07T00:16:00-0500
 description: "this is what it means to be or get 0wned http://www.ownedbitch.info/ cigarette commercials from back in the days http://www.tvparty.com/vaultcomcig.html…"
 timezone: "America/Toronto"
 tags:

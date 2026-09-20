@@ -1,7 +1,7 @@
 ---
 title: "BlackBerry Torch"
 author: "Seth Mason"
-pubDatetime: 2010-08-04T22:12:00
+pubDatetime: 2010-08-04T22:12:00-0400
 description: "Gizmodo and engadget share their thoughts on the new BlackBerry 9800 aka Torch"
 timezone: "America/Toronto"
 tags:

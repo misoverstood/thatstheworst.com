@@ -1,7 +1,7 @@
 ---
 title: "kb wiki faq"
 author: "Seth Mason"
-pubDatetime: 2010-10-21T12:40:00
+pubDatetime: 2010-10-21T12:40:00-0400
 description: "I was searching for a personal knowledge base or wiki/faq for a friend and came across these links. Any other suggestions? create your own wiki:…"
 timezone: "America/Toronto"
 tags:

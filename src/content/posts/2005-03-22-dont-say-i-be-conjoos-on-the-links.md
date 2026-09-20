@@ -1,7 +1,7 @@
 ---
 title: "dont say I be conjoos on the links"
 author: "Seth Mason"
-pubDatetime: 2005-03-22T00:00:00
+pubDatetime: 2005-03-22T00:00:00-0500
 description: "top 10 bit-torrent sites according to this website there’s better ones out there but i cant be promoting piracy, now can I?…"
 timezone: "America/Toronto"
 tags:

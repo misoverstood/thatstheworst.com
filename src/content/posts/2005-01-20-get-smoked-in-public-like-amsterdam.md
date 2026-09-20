@@ -1,7 +1,7 @@
 ---
 title: "get smoked in public like amsterdam"
 author: "Seth Mason"
-pubDatetime: 2005-01-20T21:23:00
+pubDatetime: 2005-01-20T21:23:00-0500
 description: "please dont be this gc http://www.funpic.hu/swf/numanuma.html every game for NES, Sega and Gameboy available for play online…"
 timezone: "America/Toronto"
 tags:

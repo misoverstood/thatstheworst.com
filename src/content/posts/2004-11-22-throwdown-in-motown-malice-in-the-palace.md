@@ -1,7 +1,7 @@
 ---
 title: "throwdown in motown, malice in the palace"
 author: "Seth Mason"
-pubDatetime: 2004-11-22T22:02:00
+pubDatetime: 2004-11-22T22:02:00-0500
 description: "some stupid s*** http://www.whackyourboss.com/ french soldiers playing target practice with civilians (100 MB video)…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "guns dont kill people, dangerous minorities do"
 author: "Seth Mason"
-pubDatetime: 2005-03-25T00:00:00
+pubDatetime: 2005-03-25T00:00:00-0500
 description: "if u use broadband in Canada, this forum is for you http://rbua.org if u enjoyed the scene, here’s some more web on tv shows…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "take 1 for your team"
 author: "Seth Mason"
-pubDatetime: 2004-12-12T11:31:00
+pubDatetime: 2004-12-12T11:31:00-0500
 description: "some of u need these cards http://www.coudal.com/Shhh.pdf jews against Israel http://www.jewsagainstzionism.com/ http://www.jewsnotzionists.org/ hidden…"
 timezone: "America/Toronto"
 tags:

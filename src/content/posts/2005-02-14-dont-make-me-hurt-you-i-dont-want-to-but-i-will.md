@@ -1,7 +1,7 @@
 ---
 title: "dont make me hurt you I dont want to but I will"
 author: "Seth Mason"
-pubDatetime: 2005-02-14T00:00:00
+pubDatetime: 2005-02-14T00:00:00-0500
 description: "learn to tie ties (all of em) http://www.tie-a-tie.net/ text babes (and other ppl) http://www.asciibabes.com/ look down the barrel of my 9…"
 timezone: "America/Toronto"
 tags:

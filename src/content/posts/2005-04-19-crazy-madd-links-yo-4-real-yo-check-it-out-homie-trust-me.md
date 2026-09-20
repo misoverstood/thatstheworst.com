@@ -1,7 +1,7 @@
 ---
 title: "crazy madd links yo 4 real yo check it out homie trust me"
 author: "Seth Mason"
-pubDatetime: 2005-04-19T00:00:00
+pubDatetime: 2005-04-19T00:00:00-0400
 description: "Noam Chomsky videos (sweetness) you should really get to know the dude if you don’t http://www.chomskytorrents.org/ choppers for chicks…"
 timezone: "America/Toronto"
 tags:

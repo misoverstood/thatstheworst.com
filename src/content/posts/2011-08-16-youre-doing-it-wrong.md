@@ -1,7 +1,7 @@
 ---
 title: "you're doing it wrong"
 author: "Seth Mason"
-pubDatetime: 2011-08-16T09:37:00
+pubDatetime: 2011-08-16T09:37:00-0400
 description: "schedule twitter and facebook updates http://laterbro.com/ take a picture of a picture from the past in the present http://dearphotograph.com/ a q and a…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "I got a sick vendetta to get this chedda"
 author: "Seth Mason"
-pubDatetime: 2005-01-27T00:00:00
+pubDatetime: 2005-01-27T00:00:00-0500
 description: "the picture of everything (repeat) http://www.thepictureofeverything.com/ MasterCard ad http://www.paulzarouii.com/crap/Mastercard.html this dude has it…"
 timezone: "America/Toronto"
 tags:

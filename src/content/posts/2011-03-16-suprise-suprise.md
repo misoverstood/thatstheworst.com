@@ -1,7 +1,7 @@
 ---
 title: "suprise suprise"
 author: "Seth Mason"
-pubDatetime: 2011-03-16T13:49:00
+pubDatetime: 2011-03-16T13:49:00-0400
 description: "open source MP3 ID3 tag remover #windows #software http://cuemaster.org/tidymp3.html http://nekohako.xware.cx/id3tool/ caching DNS resolver #server…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "mini me's tryin to be identical"
 author: "Seth Mason"
-pubDatetime: 2005-02-01T00:00:00
+pubDatetime: 2005-02-01T00:00:00-0500
 description: "I got the mad deals yo! http://redflagdeals.com/ another time waster website with loads of vids (NSFW) http://www.emptyspace.dk/ did i send this already?…"
 timezone: "America/Toronto"
 tags:

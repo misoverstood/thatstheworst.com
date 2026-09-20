@@ -1,7 +1,7 @@
 ---
 title: "weak on the links"
 author: "Seth Mason"
-pubDatetime: 2005-03-20T00:00:00
+pubDatetime: 2005-03-20T00:00:00-0500
 description: "welcome to the rat lab (lern sum s***) http://www.ratlab.co.uk/ top 100 tv themes http://www.retrocrush.com/tvthemes/part1.html common sense and useful…"
 timezone: "America/Toronto"
 tags:

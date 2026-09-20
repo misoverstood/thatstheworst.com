@@ -1,7 +1,7 @@
 ---
 title: "Motorycle Rides, Events and Routes in Ontario (Canada)"
 author: "Seth Mason"
-pubDatetime: 2013-05-30T12:50:00
+pubDatetime: 2013-05-30T12:50:00-0400
 description: "http://www.bikerides.ca/ http://www.gorideontario.com/en/motorcycle/ http://www.northernontario.travel/motorcycle-touring…"
 timezone: "America/Toronto"
 tags:

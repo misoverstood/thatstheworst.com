@@ -1,7 +1,7 @@
 ---
 title: "I always whip open doors"
 author: "Seth Mason"
-pubDatetime: 2011-10-28T12:39:00
+pubDatetime: 2011-10-28T12:39:00-0400
 description: "online pinboard http://pinterest.com/ extreme couponing http://thekrazycouponlady.com/ http://acrazycouponerdealfinder.com/ some people like their fonts…"
 timezone: "America/Toronto"
 tags:

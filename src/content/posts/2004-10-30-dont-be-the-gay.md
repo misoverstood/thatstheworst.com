@@ -1,7 +1,7 @@
 ---
 title: "dont be the gay"
 author: "Seth Mason"
-pubDatetime: 2004-10-30T16:05:00
+pubDatetime: 2004-10-30T16:05:00-0400
 description: "do u have TMS? http://www.healthystrokes.com/index.html download F911 http://marc.perkel.com/archives/000468.html random video clips…"
 timezone: "America/Toronto"
 tags:

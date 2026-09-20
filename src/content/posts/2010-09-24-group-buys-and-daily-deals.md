@@ -1,7 +1,7 @@
 ---
 title: "group buys and daily deals"
 author: "Seth Mason"
-pubDatetime: 2010-09-24T09:59:00
+pubDatetime: 2010-09-24T09:59:00-0400
 description: "There are more than a few group buying websites that offer daily deals on a variety of products and services. I have made an attempt to list them here…"
 timezone: "America/Toronto"
 tags:

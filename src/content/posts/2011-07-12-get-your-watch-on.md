@@ -1,7 +1,7 @@
 ---
 title: "get your watch on"
 author: "Seth Mason"
-pubDatetime: 2011-07-12T16:11:00
+pubDatetime: 2011-07-12T16:11:00-0400
 description: "Breaking Bad - season 4 starts Sunday July 10 http://amctv.com/shows/breaking-bad Sons of Anarchy - season 4 in production…"
 timezone: "America/Toronto"
 tags:

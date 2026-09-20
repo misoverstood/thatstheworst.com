@@ -1,7 +1,7 @@
 ---
 title: "b***** love links"
 author: "Seth Mason"
-pubDatetime: 2010-12-18T20:08:00
+pubDatetime: 2010-12-18T20:08:00-0500
 description: "text case converter http://convertcase.net/ learn linux http://linuxreviews.org/beginner/ sad trombone http://sadtrombone.com/ create a simple personal…"
 timezone: "America/Toronto"
 tags:

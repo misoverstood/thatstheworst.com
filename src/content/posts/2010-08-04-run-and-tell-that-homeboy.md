@@ -1,7 +1,7 @@
 ---
 title: "run and tell that homeboy"
 author: "Seth Mason"
-pubDatetime: 2010-08-04T11:11:00
+pubDatetime: 2010-08-04T11:11:00-0400
 description: "some dude is sending lindsay lohan postcards everyday while she is in prison http://www.dearlindsaylohan.com/ a really cool and unique clock…"
 timezone: "America/Toronto"
 tags:

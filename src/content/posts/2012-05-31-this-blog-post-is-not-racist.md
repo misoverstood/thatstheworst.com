@@ -1,7 +1,7 @@
 ---
 title: "this blog post is not racist"
 author: "Seth Mason"
-pubDatetime: 2012-05-31T11:11:00
+pubDatetime: 2012-05-31T11:11:00-0400
 description: "stream or record your terminal http://codestre.am/ cool OSX customizations via terminal https://github.com/mathiasbynens/dotfiles/blob/master/.osx your…"
 timezone: "America/Toronto"
 tags:

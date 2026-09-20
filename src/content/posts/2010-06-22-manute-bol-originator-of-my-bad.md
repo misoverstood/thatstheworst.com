@@ -1,7 +1,7 @@
 ---
 title: "Manute Bol: originator of 'My Bad'"
 author: "Seth Mason"
-pubDatetime: 2010-06-22T15:18:00
+pubDatetime: 2010-06-22T15:18:00-0400
 description: "share your email threads http://cceverybody.com/ 54 directors remake 54 scenes from Kevin Bacon’s 1984 classic footloose http://thefootlooseremake.com/…"
 timezone: "America/Toronto"
 tags:

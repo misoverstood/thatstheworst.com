@@ -1,7 +1,7 @@
 ---
 title: "mohandas karamchand gandhi is my homeboy"
 author: "Seth Mason"
-pubDatetime: 2010-09-02T15:16:00
+pubDatetime: 2010-09-02T15:16:00-0400
 description: "sweet web hosting deal from netfirms (via faraz) http://www.netfirms.com/max FREE mathematics tutorials, problems and worksheets…"
 timezone: "America/Toronto"
 tags:

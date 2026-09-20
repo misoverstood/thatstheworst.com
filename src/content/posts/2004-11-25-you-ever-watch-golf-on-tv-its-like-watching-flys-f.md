@@ -1,7 +1,7 @@
 ---
 title: "you ever watch golf on TV? its like watching fly's f---"
 author: "Seth Mason"
-pubDatetime: 2004-11-25T21:04:00
+pubDatetime: 2004-11-25T21:04:00-0500
 description: "From the naked mind of: GEORGE CARLIN 1. Don’t sweat the petty things and don’t pet the sweaty things. 2. One tequila, two tequila, three tequila, floor.…"
 timezone: "America/Toronto"
 tags:

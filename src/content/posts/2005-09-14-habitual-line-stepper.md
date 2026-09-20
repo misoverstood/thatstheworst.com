@@ -1,7 +1,7 @@
 ---
 title: "Habitual Line Stepper"
 author: "Seth Mason"
-pubDatetime: 2005-09-14T00:00:00
+pubDatetime: 2005-09-14T00:00:00-0400
 description: "new orleans: choose your own adventure http://www.kuro5hin.org/story/2005/9/6/34041/87727 if your bored and know how to read first hand accounts of…"
 timezone: "America/Toronto"
 tags:

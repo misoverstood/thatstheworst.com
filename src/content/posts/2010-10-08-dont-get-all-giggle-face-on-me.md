@@ -1,7 +1,7 @@
 ---
 title: "don't get all giggle face on me"
 author: "Seth Mason"
-pubDatetime: 2010-10-08T15:06:00
+pubDatetime: 2010-10-08T15:06:00-0400
 description: "best price per GB for digital storage http://gb4less.com/ save youtube videos to your MAC, iPod or PSP http://stinkbot.com/Tubesock/ free website builder…"
 timezone: "America/Toronto"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "never give a sucker an even break"
 author: "Seth Mason"
-pubDatetime: 2004-11-18T14:11:00
+pubDatetime: 2004-11-18T14:11:00-0500
 description: "txt msg http://www.netlingo.com/emailsh.cfm underwear goes inside your pants. this video is f—— sweet. true so true.…"
 timezone: "America/Toronto"
 tags:

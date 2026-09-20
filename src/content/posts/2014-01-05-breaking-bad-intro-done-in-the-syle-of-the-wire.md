@@ -1,7 +1,7 @@
 ---
 title: "Breaking Bad intro done in the syle of The Wire"
 author: "Seth Mason"
-pubDatetime: 2014-01-05T19:04:00
+pubDatetime: 2014-01-05T19:04:00-0500
 description: "Season 1: https://www.youtube.com/watch?v=MiNdBGjxNzo Season 2: https://www.youtube.com/watch?v=DhX7hvzlaGc Season 3:…"
 timezone: "America/Toronto"
 tags:

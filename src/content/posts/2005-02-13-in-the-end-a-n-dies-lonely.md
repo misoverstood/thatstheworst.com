@@ -1,7 +1,7 @@
 ---
 title: "in the end a n---- dies lonely"
 author: "Seth Mason"
-pubDatetime: 2005-02-13T00:00:00
+pubDatetime: 2005-02-13T00:00:00-0500
 description: "Angelina Jolie is a home wrecker http://joliehomewrecker.com/ but not as good as lohan freestyle http://lohanfreestyle.com a bunch of video clips…"
 timezone: "America/Toronto"
 tags:
