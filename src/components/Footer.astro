@@ -1,7 +1,5 @@
 ---
 import type { HTMLAttributes } from "astro/types";
-import Socials from "./Socials.astro";
-import { useTranslations } from "@/i18n";
 
 type Props = {
   noMarginTop?: boolean;
@@ -9,22 +7,41 @@ type Props = {
 
 const { noMarginTop = false, class: className, ...attrs } = Astro.props;
 
-const t = useTranslations(Astro.currentLocale);
-const currentYear = new Date().getFullYear();
+const network = [
+  { name: "thatstheworst.com", url: "https://thatstheworst.com/", current: true },
+  { name: "flemingdon.org", url: "https://flemingdon.org/" },
+  { name: "muhummud.org", url: "https://muhummud.org/" },
+  { name: "naseema.net", url: "https://naseema.net/" },
+  { name: "iseentit.com", url: "https://iseentit.com/" },
+];
 ---
 
 <footer
   class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
   {...attrs}
 >
-  <div
-    class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
+  <nav
+    aria-label="Other sites"
+    class="border-border flex flex-wrap items-center justify-center gap-x-2 gap-y-1 border-t py-6 text-sm sm:py-5"
   >
-    <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>{t.footer.copyright} &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>{t.footer.allRightsReserved}</span>
-    </div>
-  </div>
+    {
+      network.map((site, i) => (
+        <>
+          {i > 0 && <span class="text-foreground/40 select-none">&middot;</span>}
+          {site.current ? (
+            <span class="text-foreground/50" aria-current="page">
+              {site.name}
+            </span>
+          ) : (
+            <a
+              href={site.url}
+              class="hover:text-accent underline decoration-dashed underline-offset-4"
+            >
+              {site.name}
+            </a>
+          )}
+        </>
+      ))
+    }
+  </nav>
 </footer>
