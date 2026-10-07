@@ -7,13 +7,11 @@ type Props = {
 
 const { noMarginTop = false, class: className, ...attrs } = Astro.props;
 
-const network = [
-  { name: "thatstheworst.com", url: "https://thatstheworst.com/", current: true },
-  { name: "flemingdon.org", url: "https://flemingdon.org/" },
-  { name: "muhummud.org", url: "https://muhummud.org/" },
-  { name: "naseema.net", url: "https://naseema.net/" },
-  { name: "iseentit.com", url: "https://iseentit.com/" },
-];
+// The site list, its order and format live in one place:
+//   https://github.com/misoverstood/links-ring (ring.js)
+// ring.js fills the nav below in the browser. Don't hardcode the list here.
+// It outputs <a> links (current site as a[aria-current="page"]) separated by
+// <span class="sep">, so they're styled from the nav with child selectors.
 ---
 
 <footer
@@ -21,27 +19,9 @@ const network = [
   {...attrs}
 >
   <nav
+    data-links-ring
     aria-label="Other sites"
-    class="border-border flex flex-wrap items-center justify-center gap-x-2 gap-y-1 border-t py-6 text-sm sm:py-5"
-  >
-    {
-      network.map((site, i) => (
-        <>
-          {i > 0 && <span class="text-foreground/40 select-none">&middot;</span>}
-          {site.current ? (
-            <span class="text-foreground/50" aria-current="page">
-              {site.name}
-            </span>
-          ) : (
-            <a
-              href={site.url}
-              class="hover:text-accent underline decoration-dashed underline-offset-4"
-            >
-              {site.name}
-            </a>
-          )}
-        </>
-      ))
-    }
-  </nav>
+    class="links-ring border-border flex flex-wrap items-center justify-center gap-x-2 gap-y-1 border-t py-6 text-sm sm:py-5 [&_a]:underline [&_a]:decoration-dashed [&_a]:underline-offset-4 [&_a:hover]:text-accent [&_a[aria-current]]:text-foreground/50 [&_a[aria-current]]:no-underline [&_a[aria-current]]:pointer-events-none [&_.sep]:text-foreground/40 [&_.sep]:select-none"
+  ></nav>
+  <script is:inline src="https://misoverstood.github.io/links-ring/ring.js" defer></script>
 </footer>
